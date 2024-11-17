@@ -1702,6 +1702,13 @@
 			"[+100]% Strength <vs cities>",
 			"Consumes [3] [Ulframite]",
 			"Can only be built <with [Ulframite]>",
+			"[100]% chance to intercept air attacks",
+			"[+150]% Strength <vs [Air] units> <when attacking>",
+			"[+150]% Damage when intercepting <vs [Air] units>",
+			"[+150]% Strength <vs [Drone] units> <when attacking>",
+			"[+200]% Strength <vs [Satellite] units> <when attacking>",
+			"[+200]% Strength <vs [Armored] units>",
+			"Can move after attacking",
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["Ignore terrain cost", "Amphibious"],
