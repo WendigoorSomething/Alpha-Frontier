@@ -2973,15 +2973,15 @@
 		"ranged strength": 1000,
 		"cost": 1500,
 		"requiredTech": "Singularity Tech",
-		//"requiredResource": "Antimatter"
+		//"requiredResource": "Ulframite"
 		"uniques": [
 			"Carrier",
 			"Hovercraft",
 			"Can carry [10] [Aerocraft] units",
 			"No defensive terrain bonus",
 			"[+100]% Strength <vs cities>",
-			"Consumes [5] [Antimatter]",
-			"Can only be built <with [Antimatter]>",
+			"Consumes [10] [Ulframite]",
+			"Can only be built <with [Ulframite]>",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units> <when attacking>",
 			"[+150]% Damage when intercepting <vs [Air] units>",
