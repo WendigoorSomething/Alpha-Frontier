@@ -2970,7 +2970,8 @@
 		"unitType": "Hover Carrier",
 		"movement": 15,
 		"strength": 1000,
-		"ranged strength": 1000,
+		"rangedStrength": 1000,
+		"range": 10,
 		"cost": 1500,
 		"requiredTech": "Singularity Tech",
 		//"requiredResource": "Ulframite"
@@ -2988,12 +2989,20 @@
 			"[+150]% Strength <vs [Drone] units> <when attacking>",
 			"[+200]% Strength <vs [Satellite] units> <when attacking>",
 			"[+200]% Strength <vs [Armored] units>",
+			"[+1000]% Strength <when defending>",
+			"Can carry [10] [Cruise Missile] units",
+			"Can carry [3] [ICBM] units",
+			"Ranged attacks may be performed over obstacles",
+			"[+5] Sight",
+			"Uncapturable",
+			"Ignores Zone of Control",
+			"Eliminates combat penalty for attacking over a river",
 			"Can move after attacking",
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["Ignore terrain cost", "Amphibious"],
 		"hurryCostModifier": 20,
-		"attackSound": "shot",
+		"attackSound": "ChargeUpBeam",
 		"civilopediaText": [
 			/*
 			{
