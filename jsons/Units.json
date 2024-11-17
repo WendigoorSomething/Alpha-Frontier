@@ -1685,50 +1685,6 @@
 			}
 		]
 	},
-	{
-		"name": "Space Titan",
-		"unitType": "Hover Carrier",
-		"movement": 15,
-		"strength": 1000,
-		"ranged strength": 1000,
-		"cost": 1500,
-		"requiredTech": "Singularity Tech",
-		//"requiredResource": "Ulframite"
-		"uniques": [
-			"Carrier",
-			"Hovercraft",
-			"Can carry [10] [Aerocraft] units",
-			"No defensive terrain bonus",
-			"[+100]% Strength <vs cities>",
-			"Consumes [3] [Ulframite]",
-			"Can only be built <with [Ulframite]>",
-			"[100]% chance to intercept air attacks",
-			"[+150]% Strength <vs [Air] units> <when attacking>",
-			"[+150]% Damage when intercepting <vs [Air] units>",
-			"[+150]% Strength <vs [Drone] units> <when attacking>",
-			"[+200]% Strength <vs [Satellite] units> <when attacking>",
-			"[+200]% Strength <vs [Armored] units>",
-			"Can move after attacking",
-			"Never appears as a Barbarian unit"
-		],
-		"promotions": ["Ignore terrain cost", "Amphibious"],
-		"hurryCostModifier": 20,
-		"attackSound": "shot",
-		"civilopediaText": [
-			/*
-			{
-				"extraImage": "TileSets/FantasyHex/Units/Space Titan",
-				"imageSize": 64
-			},
-			*/
-			{
-				"Separator": true
-			},
-			{
-				"text": "A large spacecraft that can attack and carry imnumerable aircraft."
-			}
-		]
-	},
 
 	//// Armored
 	{
@@ -3003,6 +2959,53 @@
 			},
 			{
 				"text": "Taking notes from Darters, these flocks of AI-controlled drones operate as if they are a single organism. Their combat algorithms are enhanced when there are more units near them."
+			}
+		]
+	},
+
+	// Singularity Era
+	//// Hovercraft
+	{
+		"name": "Space Titan",
+		"unitType": "Hover Carrier",
+		"movement": 15,
+		"strength": 1000,
+		"ranged strength": 1000,
+		"cost": 1500,
+		"requiredTech": "Singularity Tech",
+		//"requiredResource": "Antimatter"
+		"uniques": [
+			"Carrier",
+			"Hovercraft",
+			"Can carry [10] [Aerocraft] units",
+			"No defensive terrain bonus",
+			"[+100]% Strength <vs cities>",
+			"Consumes [5] [Antimatter]",
+			"Can only be built <with [Antimatter]>",
+			"[100]% chance to intercept air attacks",
+			"[+150]% Strength <vs [Air] units> <when attacking>",
+			"[+150]% Damage when intercepting <vs [Air] units>",
+			"[+150]% Strength <vs [Drone] units> <when attacking>",
+			"[+200]% Strength <vs [Satellite] units> <when attacking>",
+			"[+200]% Strength <vs [Armored] units>",
+			"Can move after attacking",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Ignore terrain cost", "Amphibious"],
+		"hurryCostModifier": 20,
+		"attackSound": "shot",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Space Titan",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "A large spacecraft that can attack and carry imnumerable aircraft."
 			}
 		]
 	},
