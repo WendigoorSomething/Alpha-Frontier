@@ -2492,7 +2492,7 @@ TileSets/FantasyHex/Units/Zero Point Ship Reactor
 TileSets/FantasyHex/Units/Space Titan
   rotate: false
   xy: 1732, 403
-  size: 32, 28
-  orig: 32, 28
+  size: 32, 40
+  orig: 32, 40
   offset: 0, 0
   index: -1
