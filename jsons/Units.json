@@ -2968,11 +2968,11 @@
 	{
 		"name": "Space Titan",
 		"unitType": "Hover Carrier",
-		"movement": 15,
+		"movement": 10,
 		"strength": 1000,
 		"rangedStrength": 1000,
 		"range": 10,
-		"cost": 1500,
+		"cost": 2500,
 		"requiredTech": "Singularity Tech",
 		//"requiredResource": "Ulframite"
 		"uniques": [
@@ -2981,14 +2981,13 @@
 			"Can carry [10] [Aerocraft] units",
 			"No defensive terrain bonus",
 			"[+100]% Strength <vs cities>",
-			"Consumes [10] [Ulframite]",
+			"Consumes [5] [Ulframite]",
 			"Can only be built <with [Ulframite]>",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>",
 			"[+150]% Damage when intercepting <vs [Air] units>",
 			"[+150]% Strength <vs [Drone] units>",
 			"[+200]% Strength <vs [Satellite] units>",
-			"[+200]% Strength <vs [Armored] units>",
 			"[+1000]% Strength <when defending>",
 			"Can carry [10] [Cruise Missile] units",
 			"Can carry [3] [ICBM] units",
@@ -3015,7 +3014,7 @@
 				"Separator": true
 			},
 			{
-				"text": "A large spacecraft that can attack and carry imnumerable aircraft."
+				"text": "A large spacecraft of immense power which can destroy any opponent it encounters. It has one drawback, however, that being how expensive it is to obtain and use."
 			}
 		]
 	},
