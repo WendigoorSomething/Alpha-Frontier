@@ -1,5 +1,5 @@
 
-Tileset (6).png
+Tileset (7).png
 size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -2491,7 +2491,7 @@ TileSets/FantasyHex/Units/Zero Point Ship Reactor
   index: -1
 TileSets/FantasyHex/Units/Space Titan
   rotate: false
-  xy: 1752, 390
+  xy: 2011, 410
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
