@@ -2966,7 +2966,7 @@
 	// Singularity Era
 	//// Hovercraft
 	{
-		"name": "Space Titan",
+		"name": "Federation Titan",
 		"unitType": "Carrier",
 		"movement": 115,
 		"strength": 7750,
@@ -2994,11 +2994,11 @@
 			"Ranged attacks may be performed over obstacles",
 			"[+10] Sight",
 			"Uncapturable",
-			"Ignores Zone of Control",
 			"All tiles cost 1 movement",
 			"Eliminates combat penalty for attacking over a river",
 			"Can move after attacking",
-			"Never appears as a Barbarian unit"
+			"Never appears as a Barbarian unit",
+			"[+1000]% Strength bonus for [Military] units within [2] tiles",
 		],
 		"promotions": ["Ignore terrain cost", "Amphibious"],
 		"hurryCostModifier": 20,
