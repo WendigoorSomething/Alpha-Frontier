@@ -2969,10 +2969,10 @@
 		"name": "Federation Titan",
 		"unitType": "Hover Carrier",
 		"movement": 115,
-		"strength": 9550,
-		"rangedStrength": 9550,
+		"strength": 1880,
+		"rangedStrength": 1880,
 		"range": 135,
-		"cost": 10000,
+		"cost": 2000,
 		"requiredTech": "Singularity Tech",
 		"requiredResource": "Ulframite"
 		"uniques": [
@@ -3031,7 +3031,7 @@
 		"rangedStrength": 275,
 		"range": 135,
 		"interceptRange": 115,
-		"cost": 500,
+		"cost": 300,
 		"requiredTech": "Singularity Tech",
 		//"requiredResource": "Ulframite",
 		"uniques": [
